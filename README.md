@@ -10,6 +10,8 @@ Este es un proyecto de una aplicación de lista de tareas simple en Java. Permit
 
 ## Cómo usar
 
+Requisitos:
+- JDK 21
 Para ejecutar la aplicación, sigue estos pasos:
 
 1. Clona o descarga este repositorio en tu computadora.
